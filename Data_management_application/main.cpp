@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Entity.hpp"
-#include "BinarySearchTree.hpp"
+#include "entity.hpp"
+#include "binarySearchTree.hpp"
 
 int main() {
 	BinarySearchTree<Entity> bst;
