@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/david/Documents/GitHub/C-SimpleDataHandling/Data_management_application/output/main'
+relocations:     []
+...
